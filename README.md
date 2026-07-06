@@ -18,6 +18,6 @@ Moe’s apartment
 Zoltar Speaks Machine
 Robo Funzo Character
 Box of donuts (change where you load into the game)
-Screenshot_20251226_204504
+
 
 As well Back views for some existing benches and added gold and platinum scratchers to the store.
