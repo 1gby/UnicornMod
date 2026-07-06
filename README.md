@@ -14,11 +14,11 @@ v1.03
 
 Added new items
 
-Moe’s apartment
-Zoltar Speaks Machine
-Robo Funzo Character
-Box of donuts (change where you load into the game)
-<img width="1920" height="1042" alt="Screenshot_20251226_204504" src="https://github.com/user-attachments/assets/b2323563-78c7-4283-91d8-ce8cfda4b09f" />
+- Moe’s apartment
+- Zoltar Speaks Machine
+- Robo Funzo Character
+- Box of donuts (change where you load into the game)
 
+<img width="1920" height="1042" alt="Screenshot_20251226_204504" src="https://github.com/user-attachments/assets/b2323563-78c7-4283-91d8-ce8cfda4b09f" />
 
 As well Back views for some existing benches and added gold and platinum scratchers to the store.
